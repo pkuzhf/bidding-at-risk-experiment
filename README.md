@@ -15,7 +15,7 @@ v) Use divide-pinyou-test-data.py to split test data into two equal parts.
 
 vi) Use lap-bayes.py to train CTR distribution model.
 
-vii) Use replay-lr.py, replay-rmr.py, replay-var.py to replay validation test in the three bidding strategies.
+vii) Use replay-lr.py, replay-rmr.py, replay-var.py to replay validation test with the baseline and the two risk-aware strategies.
 
 viii) Use select-parameters.py to select model hyperparameters from replay results.
 
